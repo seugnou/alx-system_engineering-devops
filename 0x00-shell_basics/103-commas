@@ -7,3 +7,4 @@ file -C -m my-magic
 file -C -m school.mgc *
 0 string School School data
 ! :mime School
+0 string SCHOOL School data
