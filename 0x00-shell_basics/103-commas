@@ -5,3 +5,5 @@ ls -map
 chmod u+x school.mgc
 file -C -m my-magic
 file -C -m school.mgc *
+0 string School School data
+! :mime School
